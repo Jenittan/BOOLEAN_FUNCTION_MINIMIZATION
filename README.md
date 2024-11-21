@@ -1,4 +1,8 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+**NAME:JENITTAN JOSE J B **
+
+**REG NO:24006462 **
+
+**EXP NO:2 :BOOLEAN FUNCTION MINIMIZATION**
 
 **AIM:**
 
@@ -33,18 +37,15 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
-
+![WhatsApp Image 2024-11-21 at 10 37 54 AM](https://github.com/user-attachments/assets/601332ef-2822-4ece-bf45-1be84ede5214)
 
 **RTL realization**
 
-**Output:**
-
-**RTL**
+![WhatsApp Image 2024-11-21 at 10 38 08 AM](https://github.com/user-attachments/assets/cc3d3e8f-ed96-4fac-ac53-e03bd65916b7)
 
 **Timing Diagram**
+
+![WhatsApp Image 2024-11-21 at 10 37 43 AM](https://github.com/user-attachments/assets/eb4f7164-3e01-4c14-a93d-fe5a2019e3e8)
 
 **Result:**
 
