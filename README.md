@@ -1,4 +1,4 @@
-**NAME:JENITTAN JOSE J B**
+**NAME:Jenittan Jose J B**
 
 **REG NO:24006462**
 
